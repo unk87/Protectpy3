@@ -12,7 +12,7 @@
 - `pip3 install pytz`
 - `pip3 install humanfriendly`
 - `pip3 install googletrans`
-
+- 'git clone https://github.com/unk87/Protectpy3
 
 - 'Cara Run Bot'
 - Ketik -> `cd Unk87`
