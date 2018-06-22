@@ -17,8 +17,6 @@
 - 'Cara Run Bot'
 - Ketik -> `cd Unk87`
 - Ketik -> `python3 unk.py`
-- `Jangan Lupa Kalian isi Dulu Token nya`
-- `Edit via nano Atau storage`
 
 - 'untuk Run Via storage'
 - `cd storage`
